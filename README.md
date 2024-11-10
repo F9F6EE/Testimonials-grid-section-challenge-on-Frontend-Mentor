@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Here]([https://your-live-site-url.com](https://f9f6ee.github.io/Testimonials-grid-section-challenge-on-Frontend-Mentor/))
+- Live Site URL: [here](https://f9f6ee.github.io/Testimonials-grid-section-challenge-on-Frontend-Mentor/)
 
 ## My process
 

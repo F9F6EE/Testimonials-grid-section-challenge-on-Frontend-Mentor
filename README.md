@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [here](https://f9f6ee.github.io/Testimonials-grid-section-challenge-on-Frontend-Mentor/)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-flex-box-and-css-grid-Hfxe2uIN_Z)
+- Live Site URL: [Here](https://f9f6ee.github.io/Testimonials-grid-section-challenge-on-Frontend-Mentor/)
 
 ## My process
 
